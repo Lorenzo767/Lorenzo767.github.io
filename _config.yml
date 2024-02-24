@@ -12,7 +12,7 @@ collections:
   posts:
     output          : true
 
-theme: jekyll-theme-minimal
+theme: jekyll-decent
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
