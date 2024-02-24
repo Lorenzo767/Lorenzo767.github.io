@@ -15,12 +15,6 @@ Although the COVID-19 pandemic has brought about a number of problems and diffic
 For that reason, our mobile application [name] aims to improve the physical and mental well-being of senior citizens by providing them with a range of features that enable them to connect with other people and form new relationships regardless of their circumstances. In addition, the app would have a variety of features, such as inspirational quotes, daily to-do lists, and a mood chart that users could customize to their liking.
 
 
-
-
-
-
-
-
 # Topic Research
 
 ## A Look Into the Social Media Applications
@@ -30,7 +24,6 @@ For simplicity, video chatting applications have proven to have a significant im
 Furthermore, another social media application that demonstrated many improvements in the lives of many elderly citizens is Facebook. Numerous people are able to stay connected with friends and loved ones, potentially allowing them to feel less isolated thanks to their feelings of community and belonging. This is particularly helpful to people that live in nursing homes and that would like to keep in touch with their closed ones or that would simply like to meet all kinds of new people using the application.
 
 
-
 ## Cons to The Current Social Mobile Applications
 
 There are some drawbacks to this app that we would like to improve. Since Facebook Messenger is ultimately linked to Facebook the elderly user will need to create a Facebook profile. Creating a Facebook profile page can cause social anxiety, especially for new users, which will negatively impact user’s mental well being. This social anxiety can even negatively impact their feelings of loneliness. They can better connect with new people but at the same time they will care more about how they are perceived on facebook than emotionally connecting to their facebook friends and family. [5] Facebook is also susceptible to fraud, unethical advertising, and manipulation of user’s opinions. The elderly are an unfortunate target for these practices especially if they are new users of social media technology they will not be able to look out for the signs of fraud.  
@@ -38,12 +31,12 @@ There are some drawbacks to this app that we would like to improve. Since Facebo
 
 ## Surveys
 
+
 ## Quotes (if we have)
 
 
-
-
 ## Personas
+
 Based on our target audience for this application and on our results, we created two different personas that allow us to visualize their different perspectives.
 
 
@@ -69,9 +62,12 @@ A user journey is the series of events that users, modeled by our personas in th
 
 Julia was frustrated with not being able to find more non-listener users of the app through community posts or find users who did not post anything on community posts. We fixed this pain point by making a users page which is organized from new users to old users and where you can search through all of these users
 
+
+![journey_julia](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/Journey_Julia.png?raw=true)
+
 Robert had some trouble messaging people. He would go on people’s profiles and would not find a way to message them. He is used to facebook where a blue message icon labeled with the word “message” can be clicked to messages friends and family. We fixed this by having a larger message label that resembles the facebook messenger symbol.
 
-
+![journey_robert](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/Journey_Robert.png?raw=true)
 
 
 # Design Process
@@ -79,12 +75,15 @@ Robert had some trouble messaging people. He would go on people’s profiles and
 
 ## Sketch
 
+
 ## Wireframe
+
 
 ## Inspiration Board
 
-In order to create design [name], we have inspired ourselves from a lot of different inspiration boards. Firstly, we followed a similar style to that of other mental health applications. We used a minimalistic design that is a bit bubblier to make it feel more welcoming.
+In order to create design GreenMind, we have inspired ourselves from a lot of different inspiration boards. Firstly, we followed a similar style to that of other mental health applications. We used a minimalistic design that is a bit bubblier to make it feel more welcoming.
 
+![inspiration](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/Inspiration.png?raw=true)
 
 Additionally, we decided to go for a leaf-like design mainly because it represents calmness, joy, and many other positive emotions, which are elements we wish to bring with our design. Since this application targets specifically the elderly community, it was extremely crucial to make sure that it caters to that audience by implementing trendy UI designs such as the Bauhaus design.
 
@@ -98,13 +97,12 @@ As mentioned previously, we decided to go for an earthy look to represent many g
 
 For the font of GreenMind, we decided to go with Inter, being that it is a very simple yet elegant font that matches well the application. Additionally, in order to separate regular texts from more important ones, we used bold typography to be easily eligible, which is an important asset for an application such as this. Furthermore, we wanted to prevent using overly elegant or aggressive fonts which could potentially be offensive to certain individuals, making Inter perfect for our application.
 
-
+![fonts](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/fonts.png?raw=true)
 
 
 ## Naming and Logo
 
 In terms of the name of our logo, we decided to go with something simplistic and easy to understand from a first glance. GreenMind can be separated into two terms, “Green” and “Mind”. On one hand, the first time is to represent the aesthetic that we picked to fit the overall theme. On the other hand, “Mind” is to represent a person’s mind, either for listeners or regular users. The word “GreenMind” combined allows to reflect a user’s sense of security and calmness  when opening the application.
-
 
 
 # Final Design
