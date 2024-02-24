@@ -1,5 +1,4 @@
-# TITLE HERE
-
+<h1 class="project-name">TITLE HERE</h1>
 
 # Introduction
 
