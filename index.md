@@ -1,4 +1,6 @@
-<h1 class="project-name">TITLE HERE</h1>
+---
+title: The title you want for the site
+---
 
 # Introduction
 
