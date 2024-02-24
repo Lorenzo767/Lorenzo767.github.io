@@ -1,10 +1,3 @@
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
 # Introduction
 
 Amidst the COVID-19 outbreak, elderly individuals were more vulnerable to the terrible virus's fatal effects. As a result, social distancing was necessary between individuals of all ages, but particularly with the elderly, in order to prevent compromising their well-being. Although this preventive measure was essential during the epidemic, a number of additional problems emerged in the lives of numerous elderly individuals, with feelings of depression and isolation brought on by isolation being among them.
