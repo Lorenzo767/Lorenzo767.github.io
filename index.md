@@ -1,5 +1,5 @@
 ---
-title: The title you want for the site
+title: GreenMind
 ---
 
 # Introduction
