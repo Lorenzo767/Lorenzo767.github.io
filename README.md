@@ -49,11 +49,11 @@ Based on our target audience for this application and on our results, we created
 
 The first persona, Julia, represents most of the users who would be considered as listeners and who would be volunteering to speak with other users, mainly elderly citizens. These listeners would allow senior citizens to have someone to speak to, no matter their circumstances.
 
-![persona_julia](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/edit/main/Persona_Julia.png?raw=true)
+![persona_julia](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/Persona_Julia.png?raw=true)
 
 The second person that was created is that of Robert, who is a 74-year-old man looking to make some new connections. Unlike Julia, Robert is a bit more introverted and has been struggling with various mental health issues. 
 
-![persona_robert](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/edit/main/Persona_Robert.png?raw=true)
+![persona_robert](https://github.com/Lorenzo767/Lorenzo767.github.io/blob/main/Persona_Robert.png?raw=true)
 
 
 ## User Goals
